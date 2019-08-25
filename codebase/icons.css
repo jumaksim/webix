@@ -1,0 +1,76 @@
+/*
+https://cdn.materialdesignicons.com/3.6.95/
+https://cdn.materialdesignicons.com/3.8.95/
+*/
+
+/*top level tabs*/
+.dashboard:before
+{
+	content: "\F56E";
+}
+
+.portfolio:before
+{
+	content: "\F56E";
+}
+
+.resourcemanagement:before
+{
+	content: "\F56E";
+}
+
+.analytics:before
+{
+	content: "\F56E";
+}
+
+.engagement:before
+{
+	content: "\F56E";
+}
+
+.foundation:before
+{
+	content: "\F56E";
+}
+
+.search:before
+{
+	font-size:26px;
+	content: "\f349";
+}
+
+.portfolio-dashboard:before
+{
+	content: "\F56E";
+}
+
+.portfolio-account:before
+{
+	content: "\F56E";
+}
+
+.portfolio-contacts:before
+{
+	content: "\F56E";
+}
+
+.portfolio-opportunities:before
+{
+	content: "\F56E";
+}
+
+.portfolio-leads:before
+{
+	content: "\F56E";
+}
+
+.portfolio-segaudience:before
+{
+	content: "\F56E";
+}
+
+.portfolio-scorecard:before
+{
+	content: "\F56E";
+}
